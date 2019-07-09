@@ -1,7 +1,7 @@
 # OntoAndalus
 OntoAndalus is an ontology about pottery artefacts of al-Andalus, a relevant topic in Islamic archaeological studies in Spain and Portugal. The purpose of OntoAndalus is to further knowledge in the domain and to allow for the development of a multilingual terminological resource in the Semantic Web, based on formal definitions or descriptions of concepts and other units of knowledge in the domain.
 
-OntoAndalus is being developed in OWL and is presentely aligned with the [DOLCE+DnS Utltralite](http://ontologydesignpatterns.org/wiki/Ontology:DOLCE+DnS_Ultralite) top-level ontology.
+OntoAndalus is being developed in OWL and is presently aligned with the [DOLCE+DnS Ultralite](http://ontologydesignpatterns.org/wiki/Ontology:DOLCE+DnS_Ultralite) top-level ontology.
 
 ### Acknowledgement
 Funding provided by the [FCT (_Fundação para a Ciência e Tecnologia_, Portugal)](https://www.fct.pt/) through a PhD scholarship Nov. 2014 - Nov. 2018.
