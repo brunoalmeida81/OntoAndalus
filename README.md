@@ -4,7 +4,7 @@ OntoAndalus is an ontology about pottery artefacts of al-Andalus, a relevant top
 OntoAndalus is being developed in OWL and is presentely aligned with the [DOLCE+DnS Utltralite](http://ontologydesignpatterns.org/wiki/Ontology:DOLCE+DnS_Ultralite) top-level ontology.
 
 ### Acknowledgement
-Funding provided by the FCT (_Fundação para a Ciência e Tecnologia_, Portugal) through a PhD scholarship Nov. 2014 - Nov. 2018.
+Funding provided by the [FCT (_Fundação para a Ciência e Tecnologia_, Portugal)](https://www.fct.pt/) through a PhD scholarship Nov. 2014 - Nov. 2018.
 
 ### Publications
 Almeida, B., Roche, C., & Costa, R. (2016). Terminology and ontology development in the domain of Islamic archaeology. In H. E. Thomsen, A. Pareja-Lora, & B. N. Madsen (Eds.), _Term bases and linguistic linked open data: TKE 2016_ (pp. 147–156). Retrieved from http://hal.univ-smb.fr/hal-01354325v1.
