@@ -4,7 +4,7 @@ OntoAndalus is an ontology about pottery artefacts of al-Andalus, a relevant top
 OntoAndalus is being developed in OWL and is presently aligned with the [DOLCE+DnS Ultralite](http://ontologydesignpatterns.org/wiki/Ontology:DOLCE+DnS_Ultralite) top-level ontology.
 
 ### Acknowledgements
-Work carried out in the context of a PhD project at [_Centro de Linguística da Universidade NOVA de Lisboa_ (CLUNL)](http://clunl.fcsh.unl.pt).
+Work carried out in the context of a PhD project at [NOVA CLUNL](http://clunl.fcsh.unl.pt) and [Condillac Research Group, UGA](http://new.condillac.org/).
 
 Funding provided by the [_Fundação para a Ciência e Tecnologia_ (FCT)](https://www.fct.pt/) through the ESF and the POPH programme.
 
