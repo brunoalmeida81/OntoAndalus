@@ -505,6 +505,7 @@
                 </owl:someValuesFrom>
             </owl:Restriction>
         </rdfs:subClassOf>
+        <rdfs:label xml:lang="es">tubo de alambique</rdfs:label>
         <rdfs:label xml:lang="pt">tubo de alambique</rdfs:label>
     </owl:Class>
     
@@ -894,6 +895,7 @@
             </owl:Class>
         </owl:equivalentClass>
         <owl:disjointWith rdf:resource="http://clunl.fcsh.unl.pt/ontoandalus#PinchedSpoutLamp"/>
+        <rdfs:label xml:lang="pt">candil de bico de canal</rdfs:label>
         <rdfs:label xml:lang="es">candil de piquera</rdfs:label>
     </owl:Class>
     
@@ -983,6 +985,7 @@
         </owl:equivalentClass>
         <owl:disjointWith rdf:resource="http://clunl.fcsh.unl.pt/ontoandalus#OpenLamp"/>
         <rdfs:label xml:lang="pt">candil</rdfs:label>
+        <rdfs:label xml:lang="es">candil de cazoleta cerrada</rdfs:label>
         <rdfs:label xml:lang="es">candil de depósito cerrado</rdfs:label>
         <skos:definition xml:lang="pt">Artefacto para iluminação em espaços fechados composto por um depósito fechado para combustível líquido e pelo menos um bico.</skos:definition>
     </owl:Class>
@@ -2066,7 +2069,7 @@
                 <owl:someValuesFrom rdf:resource="http://clunl.fcsh.unl.pt/ontoandalus#RectangularSpout"/>
             </owl:Restriction>
         </rdfs:subClassOf>
-        <rdfs:label xml:lang="pt">candeia de bico rectangular</rdfs:label>
+        <rdfs:label xml:lang="pt">candeia de bico retangular</rdfs:label>
         <rdfs:label xml:lang="es">candil de pico rectangular y depósito abierto</rdfs:label>
     </owl:Class>
     
