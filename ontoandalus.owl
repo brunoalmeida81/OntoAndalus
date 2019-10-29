@@ -6,6 +6,7 @@
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:xml="http://www.w3.org/XML/1998/namespace"
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:obda="https://w3id.org/obda/vocabulary#"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      xmlns:skos="http://www.w3.org/2004/02/skos/core#"
      xmlns:DOLCE-Lite="http://www.loa-cnr.it/ontologies/DOLCE-Lite.owl#"
@@ -4273,6 +4274,7 @@
     <owl:NamedIndividual rdf:about="http://clunl.fcsh.unl.pt/ontoandalus#vaso_de_tavira">
         <rdf:type rdf:resource="http://clunl.fcsh.unl.pt/ontoandalus#ArchaeologicalArtefact"/>
         <rdf:type rdf:resource="http://clunl.fcsh.unl.pt/ontoandalus#PotteryArtefact"/>
+        <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#DesignedArtifact"/>
         <hasDecoration rdf:resource="http://clunl.fcsh.unl.pt/ontoandalus#incision_decoration"/>
         <hasDecoration rdf:resource="http://clunl.fcsh.unl.pt/ontoandalus#painted_decoration"/>
         <hasMaxDiameter rdf:resource="http://clunl.fcsh.unl.pt/ontoandalus#420mm"/>
